@@ -1,0 +1,2 @@
+# szoyzndBay
+本系统是一款针对大学生入学审核管理的Web应用，基于Springboot+Vue前后端分离架构。它采用MVC模式设计，集成了Spring、SpringBoot、Mybatis等技术，以MySQL为数据存储。系统核心功能为简化入学审核流程，提供便捷的操作界面，实现高效的学生信息管理，有效提升审核工作的准确性和效率。
